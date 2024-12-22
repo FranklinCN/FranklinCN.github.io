@@ -26,5 +26,5 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
-    - run: install
-    - run: hexo generate
+    - run: npm run i
+    - run: npm run build
