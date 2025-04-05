@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="828ed167-db64-4f5d-b144-d21403ee8859" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2025/01/18/SB-WANTS-TO-GO-TO-ICU/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/about/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/2025/01/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/2025/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/hbe.style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/odometer-theme-minimal.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/build/tailwind.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/common/animated.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/common/basic.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/common/codeblock/code-block.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/common/codeblock/code-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/common/codeblock/highlight.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/common/codeblock/hljs-themes/dark/a11y-dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/common/codeblock/hljs-themes/dark/agate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/common/codeblock/hljs-themes/dark/atom-one-dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/common/codeblock/hljs-themes/dark/github-dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/common/codeblock/hljs-themes/dark/monokai-sublime.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/common/codeblock/hljs-themes/dark/night-owl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/common/codeblock/hljs-themes/dark/nord.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/common/codeblock/hljs-themes/dark/tokyo-night-dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/common/codeblock/hljs-themes/dark/vs2015.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/common/codeblock/hljs-themes/light/atom-one-light.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/common/codeblock/hljs-themes/light/default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/common/codeblock/hljs-themes/light/github.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/common/colors.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/common/markdown.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/common/redefine-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/common/theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/common/variables.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/hbe.style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/layout/animations.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/layout/archive-content.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/layout/article-content.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/layout/bookmarks.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/layout/category-content.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/layout/category-list.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/layout/home-content.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/layout/home-sidebar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/layout/page.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/layout/tag-content.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/tailwind.source.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fontawesome/all.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fontawesome/brands.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fontawesome/duotone.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fontawesome/fontawesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fontawesome/light.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fontawesome/regular.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fontawesome/sharp-solid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fontawesome/solid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fontawesome/svg-with-js.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fontawesome/thin.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fontawesome/v4-font-face.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fontawesome/v4-shims.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fontawesome/v5-font-face.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Chillax/Chillax-Variable.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Chillax/Chillax-Variable.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Chillax/Chillax-Variable.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Chillax/Chillax-Variable.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Chillax/chillax.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Geist/GeistVF.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Geist/GeistVF.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Geist/GeistVF.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Geist/geist.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/GeistMono/GeistMonoVF.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/GeistMono/GeistMonoVF.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/GeistMono/GeistMonoVF.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/GeistMono/geist-mono.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bookmark-placeholder.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/loading.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/redefine-avatar.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/redefine-favicon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/redefine-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/redefine-logo.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/redefine-og.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/wallhaven-wqery6-dark.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/wallhaven-wqery6-light.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/layouts/bookmarkNav.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/layouts/bookmarkNav.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/layouts/categoryList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/layouts/categoryList.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/layouts/essays.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/layouts/essays.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/layouts/lazyload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/layouts/lazyload.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/layouts/navbarShrink.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/layouts/navbarShrink.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/layouts/toc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/layouts/toc.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/libs/APlayer.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/libs/Swup.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/libs/SwupPreloadPlugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/libs/SwupProgressPlugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/libs/SwupScriptsPlugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/libs/SwupScrollPlugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/libs/SwupSlideTheme.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/libs/Typed.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/libs/anime.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/libs/mermaid.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/libs/minimasonry.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/libs/moment-with-locales.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/libs/moment.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/libs/odometer.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/libs/pangu.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/libs/pjax.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/main.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/plugins/aplayer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/plugins/aplayer.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/plugins/hbe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/plugins/hbe.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/plugins/masonry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/plugins/masonry.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/plugins/mermaid.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/plugins/mermaid.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/plugins/pangu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/plugins/pangu.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/plugins/tabs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/plugins/tabs.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/plugins/typed.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/plugins/typed.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/tools/codeBlock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/tools/codeBlock.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/tools/imageViewer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/tools/imageViewer.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/tools/lightDarkSwitch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/tools/lightDarkSwitch.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/tools/localSearch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/tools/localSearch.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/tools/runtime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/tools/runtime.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/tools/scrollTopBottom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/tools/scrollTopBottom.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/tools/tocToggle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/tools/tocToggle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build/utils.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/layouts/bookmarkNav.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/layouts/categoryList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/layouts/essays.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/layouts/lazyload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/layouts/navbarShrink.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/layouts/toc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/libs/APlayer.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/libs/APlayer.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/libs/Swup.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/libs/Swup.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/libs/SwupPreloadPlugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/libs/SwupPreloadPlugin.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/libs/SwupProgressPlugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/libs/SwupScriptsPlugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/libs/SwupScrollPlugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/libs/SwupScrollPlugin.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/libs/SwupSlideTheme.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/libs/Typed.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/libs/anime.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/libs/mermaid.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/libs/mermaid.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/libs/minimasonry.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/libs/moment-with-locales.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/libs/moment.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/libs/odometer.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/libs/pangu.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/libs/pjax.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/libs/waline.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/libs/waline.mjs.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins/aplayer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins/hbe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins/masonry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins/mermaid.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins/pangu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins/tabs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins/typed.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/tools/codeBlock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/tools/imageViewer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/tools/lightDarkSwitch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/tools/localSearch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/tools/runtime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/tools/scrollTopBottom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/tools/tocToggle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/links/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/生活/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-brands-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-brands-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-duotone-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-duotone-900.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-light-300.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-light-300.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-regular-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-regular-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-sharp-solid-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-sharp-solid-900.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-solid-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-solid-900.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-thin-100.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-thin-100.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-v4compatibility.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-v4compatibility.woff2" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2vIsD3wWQc4oC18eIydsAOJTL8Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/projects/FranklinCN.github.io&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.language.and.region&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.26053.12" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="828ed167-db64-4f5d-b144-d21403ee8859" name="更改" comment="" />
+      <created>1743843800290</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743843800290</updated>
+      <workItem from="1743843801458" duration="11051000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
