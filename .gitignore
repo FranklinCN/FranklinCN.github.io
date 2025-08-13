@@ -25,3 +25,5 @@ pnpm-debug.log*
 package-lock.json
 bun.lockb
 yarn.lock
+
+./一键发布新文章bat
