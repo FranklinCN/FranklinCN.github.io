@@ -8,8 +8,6 @@ category: '刷机日记'
 draft: false 
 lang: ''
 ---
-> 部分图片来自网络，侵权请联系删除
-
 ## 在这之前
 
 因为本人实在是闲得慌，于是心血来潮，决定给自己的红米平板刷个root玩:D
@@ -148,5 +146,8 @@ init_boot.img 保留一份在电脑，避免出问题了可以自救下.
 
 <code>fastboot flash init_boot init_boot.img</code>
 
-## 资源
-123云盘 
+## 资源下载
+
+Gitee：https://gitee.com/THZtx/download/releases/tag/20250813-1
+
+> 部分图片来自网络，侵权请联系删除
