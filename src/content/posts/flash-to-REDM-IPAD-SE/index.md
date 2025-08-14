@@ -148,6 +148,6 @@ init_boot.img 保留一份在电脑，避免出问题了可以自救下.
 
 ## 资源下载
 
-Gitee：https://gitee.com/THZtx/download/releases/tag/20250813-1
+https://share.feijipan.com/s/hEOewNhu?code=1145
 
 > 部分图片来自网络，侵权请联系删除
